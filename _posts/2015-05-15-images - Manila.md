@@ -5,7 +5,7 @@ date: 2024-12-30 21:01:00
 description:
 tags: 
 categories: 
-thumbnail: assets/img/IMG_7803.jpg
+thumbnail: assets/img/IMG_7803.JPG
 ---
 
 <div class="row">
