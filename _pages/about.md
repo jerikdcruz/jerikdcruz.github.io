@@ -2,33 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> Ph.D. Candidate</p>
+    <p> MIT | Political Science </p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+How has the global spread of knowledge-based capitalism affected processes of development and innovation? What are the consequences of these shifts on democracy and economic governance? And what strategies can government, civil society, and responsible business use to steer these transformations in more inclusive directions?
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+These themes guide my research on the political economy of development and innovation, in both contemporary and historical perspective. Working across comparative politics, political economy, and economic geography, my work integrates computational social science with qualitative, historical, and causal inference methods. I use these methods to revisit political economy theories of the underlying drivers of economic and political development, with special focus on the governance foundations of industrial and innovation policy at national, subnational, and international levels. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current projects have been supported by the [APSA/NSF Doctoral Dissertation Improvement Grant](https://apsanet.org/programs/doctoral-dissertation-research-improvement-grants/2024-ddri-grantees/), the [Institute for Humane Studies Junior Fellowship](https://www.theihs.org/funding-opportunities/?gad_source=1&gad_campaignid=22070104314), the [Southeast Asia Research Group](https://dcid.sanford.duke.edu/seareg/), the [MIT Center for International Studies](https://cis.mit.edu/), the [MIT Political Methodology Lab](https://pmlab.mit.edu/), and [MIT GOV/LAB](https://mitgovlab.org/), where I am a graduate research fellow. I have also been awarded the [MIT Open Data Prize](https://libraries.mit.edu/opendata/open-data-mit-home/mit-prize/2023-mit-prize-for-open-data/) for my ongoing work on [OpenAudit](https://mitgovlab.org/news/unearthing-the-hidden-stories-of-budgets-and-audit-reports/), an academe-civil society inititative leveraging publicly-available audit reports and AI algorithms to advance governance research and accountability advocacy in the Philippines and other developing democracies.
+
+Before my PhD, I worked as an advocacy strategist on multi-awarded public health, environmental justice, and tax reform campaigns, including the campaign to legislate the Philippines' Sin Tax Law of 2012, which is today funding the country's universal healthcare program. In line with these engagements, I have also advised and consulted for international organizations and global non-profits such as the Open Society Foundations, the Asia Foundation, the United Nations Development Programme, the Asian Development Bank, and the International Labour Organization.
