@@ -8,17 +8,18 @@ categories:
 thumbnail: assets/img/1000008856.jpg
 ---
 
-<div class="row mt-3" markdown="1">
-  <div class="col-sm mt-3 mt-md-0">
-    ![Image 1](assets/img/1000004427.jpg){: .img-fluid .rounded .z-depth-1 style="transform: rotate(90deg);"}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    ![Image 2](assets/img/1000008813.jpg){: .img-fluid .rounded .z-depth-1 style="transform: rotate(90deg);"}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    ![Image 3](assets/img/1000008735.jpg){: .img-fluid .rounded .z-depth-1 style="transform: rotate(90deg);"}
-  </div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/1000004427.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/1000008813.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/1000008735.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
+
 
 <blockquote>
     <i>"A Nyonya, I told myself, is a woman who breathes two worlds— not just one or the other, not more one than the other, but both equally. My two worlds were alive: Chinese and Malay rolled into one, blended by the centuries that had passed." </i> (Selina Siak Chin Yoke, The Woman Who Breathed Two Worlds)
