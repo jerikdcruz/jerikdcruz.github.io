@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /peer-reviewed publications/
+title: peer-reviewed publications
 description: 
 nav: true
 nav_order: 2
