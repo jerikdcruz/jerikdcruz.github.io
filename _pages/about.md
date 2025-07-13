@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-How has the global spread of knowledge-based capitalism affected processes of development and innovation? What are the consequences of these shifts on democracy and economic governance? And what strategies can government, civil society, and responsible business use to steer these transformations in more inclusive directions?
+How has the global spread of the knowledge-based economy affected processes of development and innovation? What are the consequences of these shifts on democracy and economic governance? And what strategies can government, civil society, and responsible business use to steer these transformations in more inclusive directions?
 
 These themes guide my research on the political economy of development and innovation, in both contemporary and historical perspective. Working across comparative politics, political economy, and economic geography, my work integrates computational social science with qualitative, historical, and causal inference methods. I use these methods to revisit political economy theories of the underlying drivers of economic and political development, with special focus on the governance foundations of industrial and innovation policy at national, subnational, and international levels. 
 
