@@ -9,7 +9,7 @@ nav_order: 1
 
 > *We are accustomed to seeing the history of our economic activity as a field of pitiless constraint, in which scarcity, need, dependence, and coercion play major roles. From the perspective of the emergence of the knowledge economy, however, economic life has also always been a story of the troubled advance of the imagination.* (Roberto Unger, "The Knowledge Economy")
 
-The past fifty years have seen the rise of a new global economy based on knowledge-intensive production and intangible forms of capital. But how these transformations have affected processes of economic and political development have remained a black box to social scientists. My research sheds light on the causes and consequences of this global knowledge economy, focusing on three main areas: (1) the dynamics of economic governance under knowledge capitalism; (2) the social and political effects of transitions to post-industrial economies; and (3) the evolving political economy of industrial policy across historical eras. While my work is empirically oriented, I retain broad interests in social and political theory as well as social science methodology.
+The past fifty years have seen the rise of a new global economy based on knowledge-intensive production and intangible forms of capital. But how these transformations have affected processes of economic and political development have remained a black box to social scientists. My research sheds light on the causes and consequences of this global knowledge economy, focusing on three main areas: (1) the dynamics of economic governance under knowledge capitalism; (2) the social and political effects of transitions to post-industrial economies; and (3) the historical political economy of industrial policy and state-business relations. While my work is empirically oriented, I retain broad interest in social/political theory as well as political methodology.
 
 If you're interested in these same research themes or would like to see my working papers, I'd be glad to hear from you.
 
@@ -32,11 +32,12 @@ Why have upwardly-mobile beneficiaries of economic growth booms frequently becom
 
 ### selected work-in-progress
 
+"Mapping the global evolution of industrial policy bureaucracies, 1989-2025" 
+
 "The Digital Developmental State" *(with Andrew Stokols)*
 
-"Social connectedness and political populism: the rise of American far-right populism revisited" *(with Joohye Jeong)*
+"Social connectedness and political populism: the rise of the American far-right revisited" *(with Joohye Jeong)*
 
-"The US tariff data project: American trade politics from 1789-2023" *(with In Song Kim and Geondo Kim)*
+The US tariff data project: American trade politics from 1789-2023 *(with In Song Kim and Geondo Kim)*
 
-"OpenAudit: advancing governance research with LLM-processed audit reports" *(with Randy Tuaño, Enrico Antonio Viña, and Heidi Mendoza)*
-
+OpenAudit: advancing governance research with LLM-processed audit reports *(with Randy Tuaño and Enrico Antonio Viña)*
