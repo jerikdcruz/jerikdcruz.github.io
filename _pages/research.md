@@ -9,7 +9,7 @@ nav_order: 1
 
 > *We are accustomed to seeing the history of our economic activity as a field of pitiless constraint, in which scarcity, need, dependence, and coercion play major roles. From the perspective of the emergence of the knowledge economy, however, economic life has also always been a story of the troubled advance of the imagination.* (Roberto Unger, "The Knowledge Economy")
 
-The past fifty years have seen the rise of a new global economy based on knowledge-intensive production and intangible forms of capital. But how these transformations have affected processes of economic and political development have remained a black box to social scientists. My research sheds light on the causes and consequences of this global knowledge economy, focusing on three main areas: (1) the dynamics of economic governance under knowledge capitalism; (2) the social and political effects of transitions to post-industrial economies; and (3) the historical political economy of industrial policy and state-business relations. While my work is empirically oriented, I retain broad interest in social/political theory as well as social science methodology.
+The past fifty years have seen the rise of a new global economy based on knowledge-intensive production and intangible forms of capital. But how these transformations have affected processes of economic and political development have remained a black box to social scientists. My research sheds light on the causes and consequences of this global knowledge economy, focusing on three main areas: (1) the dynamics of economic governance under knowledge capitalism; (2) the social and political effects of transitions to post-industrial economies; and (3) the historical political economy of industrial policy and state-business relations. While my current work is empirically oriented, I retain broad interest in social thought, complex systems theory, and political methodology.
 
 If you're interested in these same research themes or would like to see my working papers, I'd be glad to hear from you.
 
@@ -18,7 +18,7 @@ If you're interested in these same research themes or would like to see my worki
 <details style="margin-bottom: 8px;">
 <summary> "World Wide Webs: How Migrant Networks and Porous Bureaucracies Forged the Knowledge Economy in the Global South" <i>(Job Market Paper)</i> </summary>
 <br>
-A long political economy tradition argues that strong, centralized states deploying concerted industrial policies are a precondition for developing productive industries. Yet developing countries that have emerged as exporters of knowledge-based services (e.g. software/R&D services) have often lacked such state structures. I advance a new theory of how the rise of these services-exporting hubs have been driven by skilled migrant networks engaging with porous and dispersed bureaucracies. These structures strengthen bureaucrats' connectedness to migrants' entrepreneurial networks, while decreasing risks that such networks will be crowded-out from fine-grained policy collaboration by entrenched economic interests. I test this argument using first-ever datasets and agency-level measures of industrial policy bureaucracies covering over 100 countries since 1989, and historical case studies based on over 50 elite interviews. My results challenge a vast literature underscoring "Weberian" bureaucracies and hierarchical "developmental states" as institutional prerequisites for structural transformation, especially in the era of knowledge-based capitalism. 
+A long political economy tradition argues that centralized states deploying concerted industrial policies are crucial for developing productive industries. Yet developing countries that have emerged as exporters of knowledge-based services (e.g. software/R&D/AI services) have often lacked such state structures. I advance a new theory of how the rise of these services-exporting hubs have been driven by skilled migrant networks engaging with porous and dispersed bureaucracies. These structures foster bureaucrats' connectedness to peripheral entrepreneurial networks, allowing policymakers to leverage highly-distributed tacit knowledge held by migrant co-nationals in processes of fine-grained policy collaboration. I test this argument using first-ever, agency-level datasets of industrial policy bureaucracies covering over 100 countries since 1989, and historical process-tracing of the Philippines’ and Malaysia’s diverging knowledge economy transitions based on 50 elite interviews. My results challenge a vast literature underscoring "Weberian" bureaucracies and hierarchical "developmental states" as prerequisites for structural transformation in the era of knowledge-based capitalism. 
 </details>
 
 
@@ -32,11 +32,11 @@ Why have upwardly-mobile beneficiaries of economic growth booms frequently becom
 
 ### selected work-in-progress
 
-"Mapping the global evolution of industrial policy bureaucracies, 1989-2025" 
-
 "The Digital Developmental State" *(with Andrew Stokols)*
 
 "Social connectedness and political populism: the rise of the American far-right revisited" *(with Joohye Jeong)*
+
+Mapping the global evolution of industrial policy bureaucracies, 1989-2025
 
 The US tariff data project: American trade politics from 1789-2023 *(with In Song Kim and Geondo Kim)*
 
