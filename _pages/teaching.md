@@ -7,9 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-I've taught at the Massachusetts Institute of Technology (MIT) and the Ateneo de Manila University (ADMU) in the Philippines. Before my PhD, I served as a lecturer at ADMU's Department of Economics and was invited to teach courses at their Department of Political Science. I take special pride in knowing that my ADMU courses have led many former students to orient their careers to addressing pressing development challenges, and to pursue further studies at leading universities, including MIT and UC Berkeley. 
-
-Below are overviews of university-level courses I've handled to date.   
+I've taught at the Massachusetts Institute of Technology (MIT) and the Ateneo de Manila University (ADMU) in the Philippines. Before my PhD, I served as a lecturer at ADMU's Department of Economics and was invited to teach courses at their Department of Political Science. Below are overviews of university-level courses I've handled to date.   
 
 ### <span> <strong style="color:darkred"> MIT Courses </strong> </span>
 
