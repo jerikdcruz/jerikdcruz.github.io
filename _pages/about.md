@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-How has the global spread of the knowledge economy affected processes of development and innovation? What are the consequences of these shifts on democracy and governance? And what strategies can government, civil society, and responsible business use to steer these transformations in more inclusive directions?
+How has the global spread of the knowledge economy affected processes of development and innovation? What are the consequences of these shifts on democracy and governance? What strategies can government and responsible business use to steer these transformations in more inclusive directions?
 
 These themes guide my research as a Ph.D. candidate at [MIT Political Science](https://polisci.mit.edu/) and Graduate Research Fellow at [MIT GOV/LAB](https://mitgovlab.org/) on the political economy of development, in both comparative and historical perspective. Working across comparative politics, political economy, and economic geography, my work combines computational social science with qualitative, historical, and causal inference methods. I use these methods to revisit political economy theories of the underlying drivers of economic and political development, focusing on the dynamics of industrial policy at national, subnational, and international levels. 
 
