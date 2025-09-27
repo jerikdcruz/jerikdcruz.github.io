@@ -40,4 +40,4 @@ Mapping the global evolution of industrial policy bureaucracies, 1989-2025
 
 The US tariff data project: American trade politics from 1789-2023 *(with In Song Kim and Geondo Kim)*
 
-OpenAudit: advancing governance research with LLM-processed audit reports *(with Randy Tuaño and Enrico Antonio Viña)*
+OpenAudit: advancing governance research with LLM-processed audit reports *(with Randy Tuaño and Uriel Galace)*
