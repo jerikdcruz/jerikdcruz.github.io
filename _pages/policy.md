@@ -11,7 +11,7 @@ nav_order: 4
     {% include figure.liquid loading="eager" path="assets/img/Pacifica.jpg" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
-    <i>Enroute to an indigenous Agta-Dumagat community in the Northeastern Philippines </i>
+    <i>Enroute to an indigenous Agta-Dumagat community in Casiguran, Aurora province in the Philippines </i>
 </div>
 
 I began my professional life as an advocacy strategist, and today I bridge the divide between academia and the policy world through public-purpose data science initiatives that advance the social science frontier, while providing actionable knowledge for policymakers, responsible businesses, and civil society reformers. During COVID-19, I headed socio-economic modeling efforts for [FASSSTER](https://www.ateneo.edu/news/2024/08/28/ateneo-fassster-wins-2024-alberto-g-romualdez-jr-outstanding-health-research-award), the main epidemiological forecasting system of the Philippine government for its pandemic efforts. At present, I'm leading the [OpenAudit project](https://mitgovlab.org/news/unearthing-the-hidden-stories-of-budgets-and-audit-reports/) with a team of committed governance researchers, practitioners, and accountability advocates.
