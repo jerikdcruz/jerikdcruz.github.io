@@ -18,14 +18,14 @@ If you're interested in these same research themes or would like to see my worki
 <details style="margin-bottom: 8px;">
 <summary> "World Wide Webs: How Migrant Networks and Porous Bureaucracies Forged the Knowledge Economy in the Global South" <i>(Dissertation book project)</i> </summary>
 
-<div style="margin: 1.5em 0;">
-{% include figure.liquid path="assets/img/World-plot.png" class="img-fluid rounded z-depth-1" loading="lazy" caption="Majority of top ICT services exporters from 1995-2012 were developing economies" %}
-</div>
-
 <p style="margin-top: 1em;">  
   
 A long political economy tradition argues that strong, centralized “developmental states” deploying concerted industrial policies are a precondition for developing more productive industries (<a href="https://www.sup.org/books/politics/miti-and-japanese-miracle">Johnson 1982</a>; <a href="https://press.princeton.edu/books/paperback/9780691037363/embedded-autonomy">Evans 1995</a>). Yet emerging economies as diverse as Argentina, China, India, the Philippines, and Romania that have emerged as major exporters of knowledge-based services (e.g. software, AI, R&D services) have usually lacked these state structures, in addition to pro-investor institutions. If not strong states or pro-market policies, then what governance arrangements explain why some economies have emerged as globalized technology hubs, whereas others have not?
 </p>
+
+<div style="margin: 1.5em 0;">
+{% include figure.liquid path="assets/img/World-plot.png" class="img-fluid rounded z-depth-1" loading="lazy" caption="Majority of top ICT services exporters from 1995-2012 were developing economies" %}
+</div>
 
 <p>
 
