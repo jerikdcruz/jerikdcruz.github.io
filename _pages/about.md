@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Postdoctoral Fellow/p>
-    <p> HKS | Harvard CID </p>
+    <p> Postdoctoral Fellow </p>
+    <p> Harvard Kennedy School | Harvard CID </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,8 +28,8 @@ latest_posts:
 
 How has the global spread of the knowledge economy affected the dynamics of industrial policy and developmental states? What are the consequences of these shifts on democracy and governance? How can government, responsible business, and civil society steer these transitions in more inclusive directions?
 
-These themes guide my research as a Postdoctoral Fellow at the Harvard Kennedy School's [Reimagining the Economy Project](https://www.hks.harvard.edu/centers/wiener/programs/economy) and the [Harvard Center for International Development](https://www.hks.harvard.edu/centers/cid) on the comparative and international political economy of development. My work combines computational social science with qualitative, historical, and causal inference methods. With these methods, I revisit theories of development and governance in the context of the knowledge-based economy, focusing on the governance of industrial policy at national, subnational, and international levels. 
+These themes guide my research as a Postdoctoral Fellow at the Harvard Kennedy School's [Reimagining the Economy Project](https://www.hks.harvard.edu/centers/wiener/programs/economy) and the [Harvard Center for International Development](https://www.hks.harvard.edu/centers/cid) on the comparative and international political economy of development. My work combines computational social science with qualitative, historical, and causal inference methods. With these methods, I revisit theories of development, governance, and globalization in the context of the knowledge-based economy, focusing on the governance of industrial policy at national, subnational, and international levels. 
 
 Among others, my projects have been supported by the [APSA/NSF Doctoral Dissertation Improvement Grant](https://apsanet.org/programs/doctoral-dissertation-research-improvement-grants/2024-ddri-grantees/), [Microsoft's AI Economy Institute](https://www.microsoft.com/en-us/research/group/aiei/), the [Institute for Humane Studies Junior Fellowship](https://www.theihs.org/funding-opportunities/?gad_source=1&gad_campaignid=22070104314), the [Southeast Asia Research Group](https://dcid.sanford.duke.edu/seareg/), and Canada's [International Development Research Centre](https://idrc-crdi.ca/en). My research has also received awards from the American Political Science Association's Science, Technology, and Environmental Politics and Public Policy sections, while my work on the [OpenAudit](https://www.openaudit.ph/) initiative, which leverages agentic AI to advance governance research/advocacy, has been honored with MIT's [Open Data Prize](https://libraries.mit.edu/opendata/open-data-mit-home/mit-prize/2023-mit-prize-for-open-data/).
 
-I received my Ph.D. at [MIT Political Science](https://polisci.mit.edu/) in September 2026. Before my doctoral studies, I consulted as a development economist for international organizations like the United Nations Development Programme and the Asian Development Bank. I've also worked as an advocacy strategist on multi-awarded public health, environmental justice, and good governance campaigns, including the campaign to legislate the Philippines' Sin Tax Law of 2012, which is today funding the country's universal healthcare program. 
+I received my Ph.D. at [MIT Political Science](https://polisci.mit.edu/) in September 2026. Before my studies, I consulted as a development economist for international organizations like the United Nations Development Programme and the Asian Development Bank. I've also worked as an advocacy strategist on multi-awarded public health, environmental justice, and good governance campaigns, including the campaign to legislate the Philippines' Sin Tax Law of 2012, which is today funding the country's universal healthcare program. 
