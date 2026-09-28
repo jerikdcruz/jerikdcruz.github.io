@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-How has the global spread of the knowledge economy affected the dynamics of industrial policy and developmental states? What are the consequences of these shifts on democracy and governance? How can government, responsible business, and civil society steer these transitions in more inclusive directions?
+How has the global spread of the knowledge economy affected the dynamics of industrial policy and developmental states? What are the consequences of these shifts on democracy and globalization? How can government, responsible business, and civil society steer these transitions in more inclusive directions?
 
 These themes guide my research as a Postdoctoral Fellow at the Harvard Kennedy School's [Reimagining the Economy Project](https://www.hks.harvard.edu/centers/wiener/programs/economy) and the [Harvard Center for International Development](https://www.hks.harvard.edu/centers/cid) on the comparative and international political economy of development. My work combines computational social science with qualitative, historical, and causal inference methods. With these methods, I revisit theories of development, governance, and globalization in the context of the knowledge-based economy, focusing on the governance of industrial policy at national, subnational, and international levels. 
 
