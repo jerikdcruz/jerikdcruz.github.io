@@ -19,6 +19,8 @@ If you're interested in these same research themes or would like to see my worki
 <summary> "World Wide Webs: How Migrant Networks and Porous Bureaucracies Forged the Knowledge Economy in the Global South" <i>(Dissertation book project)</i> </summary>
 
 <p style="margin-top: 1em;">  
+
+{% include figure.liquid path="assets/img/World-plot.png" class="img-fluid rounded z-depth-1" loading="lazy" alt="Majority of top ICT services exporters from 1995-2012 were developing economies" %}
 A long political economy tradition argues that strong, centralized states deploying concerted industrial policies are crucial for developing productive industries. Yet developing countries that have emerged as major exporters of knowledge-based services (e.g. software/R\&D/AI services) have often lacked these state structures. Against theories of developmental states and elite-embedded Weberian bureaucracies, this book advances a new theory of how the rise of these knowledge economy hubs has instead been driven by migrant professionals engaging with porous, non-autonomous bureaucracies. Migrant professionals drive these shifts due to their having tacit knowledge for high-tech services production, and bridging social ties between their home countries and clients in globalized industries. Porous bureaucracies, which blur the boundaries between the public and private sectors and cede policy-making authority to industry, strengthen the connectedness of bureaucrats to these decentralized networks and facilitate fine-grained collaboration between industrial policy-makers and migrant professionals in them. 
 </p>
 
