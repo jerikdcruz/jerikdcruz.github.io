@@ -16,7 +16,7 @@ If you're interested in these same research themes or would like to see my worki
 ### book project
 
 <details style="margin-bottom: 8px;">
-<summary> "World Wide Webs: How Migrant Networks and Porous Bureaucracies Forged the Knowledge Economy in the Global South" <i>(Dissertation book project)</i> </summary>
+<summary> "World Wide Webs: How Migrant Networks and Porous Bureaucracies Forged the Knowledge Economy in the Global South" </i> </summary>
 
 <p style="margin-top: 1em;">  
   
