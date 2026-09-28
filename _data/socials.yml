@@ -50,6 +50,6 @@ custom_social: # can be any name here other than the ones already defined above
   title: Custom Social
   url: https://polisci.mit.edu/people/jerik-cruz
 custom_social_2: # can be any name here other than the ones already defined above
-  logo: https://en.wikipedia.org/wiki/Harvard_Kennedy_School#/media/File:John_F._Kennedy_School_of_Government_Shield.svg # can be png, svg, jpg
+  logo: https://upload.wikimedia.org/wikipedia/en/c/c1/John_F._Kennedy_School_of_Government_Shield.svg # can be png, svg, jpg
   title: Custom Social 2
   url: https://www.hks.harvard.edu/about/jerik-cruz
