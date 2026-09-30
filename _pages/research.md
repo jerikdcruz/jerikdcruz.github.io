@@ -23,10 +23,6 @@ If you're interested in these same research themes or would like to see my worki
 A long political economy tradition argues that strong, centralized “developmental states” deploying concerted industrial policies are a precondition for developing more productive industries (<a href="https://www.sup.org/books/politics/miti-and-japanese-miracle">Johnson 1982</a>; <a href="https://press.princeton.edu/books/paperback/9780691037363/embedded-autonomy">Evans 1995</a>). Yet emerging economies as diverse as Argentina, China, India, the Philippines, and Romania that have emerged as major exporters of knowledge-based services (e.g. software, AI, R&D services) have usually lacked these state structures, in addition to pro-investor institutions. If not strong states or pro-market policies, then what governance arrangements explain why some economies have emerged as globalized technology hubs, whereas others have not?
 </p>
 
-<div style="margin: 1.5em 0;">
-{% include figure.liquid path="assets/img/World-plot.png" class="img-fluid rounded z-depth-1" loading="lazy" caption="Majority of top ICT services exporters from 1995-2012 were developing economies" %}
-</div>
-
 <p>
 
 In this book, I advance a new theory of how the rise of these knowledge economies have been driven by migrant professionals engaging with porous, non-autonomous bureaucracies. Migrant professional networks drive these shifts due to their having tacit knowledge (<a href="https://press.uchicago.edu/ucp/books/book/chicago/T/bo6035368.html">Polanyi, 1966</a>) for high-tech services production, as well as bridging social ties (<a href="https://www.journalofdemocracy.org/articles/bowling-alone-americas-declining-social-capital/">Putnam, 2015</a>) between their home countries and clients in globalized industries. Porous bureaucracies,
@@ -50,6 +46,8 @@ Together, my findings challenge an influential literature underscoring autonomou
   
 </p>
 </details>
+
+&nbsp;
 
 ### selected working papers
 
