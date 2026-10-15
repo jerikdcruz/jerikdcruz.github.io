@@ -37,6 +37,21 @@ which blur the boundaries between the public and private sectors and cede policy
 I test this theory with a four-part strategy combining quantitative, qualitative, and computational methods. Cross-nationally, I develop the first agency-level dataset of industrial policy bureaucracies covering all GATT/WTO members from 1989 onwards by applying open-source large-language models to nearly 2.1 million paragraphs of historical GATT/WTO reports. These new datasets draw attention for the first time to the underappreciated role of <i>non-state agencies</i> in implementing industrial policy worldwide. Using these datasets in an instrumental variable design, I find that bureaucratic porousness decisively influenced the relationship between developing countries’ skilled migrant stocks with their IT services export performance after the Y2K crisis of 2000, as well as their earlier adoption of tailored industrial policies. Without porous structures, skilled migration stocks were negatively related to knowledge services export outcomes; yet more porous industrial policy agencies reversed these relationships into positive ones. I yield similar patterns in an analysis of the subnational implementation of Mexico’s PROSOFT industrial policy for its software sector from 2004 to 2019.
 </p>
 
+<div class="row" style="margin: 1.5em 0 0.5em 0;">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/JPC_Malaysia_3.jpg" class="img-fluid rounded z-depth-1" loading="lazy" sizes="(min-width: 576px) 33vw, 95vw" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/JPC_Silicon_Valley_2.jpg" class="img-fluid rounded z-depth-1" loading="lazy" sizes="(min-width: 576px) 33vw, 95vw" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/JPC_Mexico_4.jpg" class="img-fluid rounded z-depth-1" loading="lazy" sizes="(min-width: 576px) 33vw, 95vw" %}
+  </div>
+</div>
+<div class="caption" style="margin-bottom: 1.5em;">
+  Moments from my fieldwork in Malaysia (L), Silicon Valley (M), and Mexico (R).
+</div>
+
 <p>
 To probe the mechanisms for these results, I process-trace the Philippines’, Malaysia’s, and Mexico's diverging knowledge economy transitions based on archival research and 88 elite interviews. Consistent with my theory, I find that the Philippines’ emergence as the world’s "business process outsourcing" capital was driven by a critical mass of returnees engaging in fine-grained policy collaboration in agencies with porous boundaries, outsourced policy functions, and
 leadership by industry veterans. Meanwhile, despite its highly-ambitious Multimedia Super Corridor Project, Malaysia’s knowledge economy transition underperformed due to the exclusion of its skilled diaspora and its closed, if technocratic, industrial policy framework. And while Mexico hosted growing numbers of skilled returnees in the 1990s, migrant-policymaker collaboration was stifled by the country’s closed and centralized bureaucracies, showcased by the dominance of camarilla-based "technobureaucrats" and big business monopolies over its IT sector. Nonetheless, in subnational zones such as Mexico’s Jalisco state where smaller industry players successfully established more porous industrial policy entities, migrant-policymaker collaboration thrived, transforming the region into one of Latin America’s leading technology hubs. </p>
