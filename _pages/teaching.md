@@ -65,7 +65,7 @@ This course is a study of the behavior and performance of the economy, the roles
 --- 
 
 <details>
-<summary> EC 121: Development Economics <i>(Occasional/Substitute Instructor)</i> </summary>
+<summary> EC 121: Development Economics <i>(Occasional Instructor)</i> </summary>
 <br>
 This course provides an introduction to the fundamental economic problems and issues of developing countries, in particular of the Philippines, using concepts and theories particular to their socio-economic structures and institutions. As students in the class will comprise primarily of business majors (Management Engineering seniors, Management Economics seniors and juniors), a particular aim of the class to introduce the roles that can be undertaken by the business sector in economic development in the country.
 
