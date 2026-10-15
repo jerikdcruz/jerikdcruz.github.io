@@ -40,7 +40,7 @@ OpenAudit addresses this issue by developing a pipeline for extracting, structur
 <summary> <b> OPENAUDIT TEAM </b> </summary>
 <br>
 <div class="d-flex justify-content-between flex-wrap"><span class="mr-3">Jerik Cruz</span><span>Lead Investigator | Postdoctoral Fellow, HKS and Harvard CID</span></div>
-<div class="d-flex justify-content-between flex-wrap"><span class="mr-3">Prof. Heidi Mendoza</span><span> Former UN Undersecretary-General for Internal Oversight | Former Commissioner, PHL Commission on Audit </span></div>
+<div class="d-flex justify-content-between flex-wrap"><span class="mr-3">Prof. Heidi Mendoza</span><span>Former OIC, PHL Commission on Audit | Former UN Undersecretary-General for Internal Oversight</span></div>
 <div class="d-flex justify-content-between flex-wrap"><span class="mr-3">Dr. Philip Arnold Tuano</span><span> President, Philippine Institute for Development Studies</span></div>
 <div class="d-flex justify-content-between flex-wrap"><span class="mr-3">Taavi Ruso</span><span>DevOps Engineer and Cloud Specialist</span></div>
 <div class="d-flex justify-content-between flex-wrap"><span class="mr-3">Uriel Galace</span><span>PhD Candidate, Duke Sanford School of Public Policy</span></div>
