@@ -14,9 +14,11 @@ nav_order: 4
     <i>Enroute to an indigenous Agta-Dumagat community in Casiguran, Aurora province in the Philippines </i>
 </div>
 
-I began my professional life as an advocacy strategist, and today I bridge the divide between academia and the policy world through public-purpose data science initiatives that advance the social science frontier, while providing actionable knowledge for policymakers, responsible businesses, and civil society reformers. During COVID-19, I headed socio-economic modeling efforts for [FASSSTER](https://www.ateneo.edu/news/2024/08/28/ateneo-fassster-wins-2024-alberto-g-romualdez-jr-outstanding-health-research-award), the main epidemiological forecasting system of the Philippine government for its pandemic efforts. At present, I'm leading the [OpenAudit project](https://mitgovlab.org/news/unearthing-the-hidden-stories-of-budgets-and-audit-reports/) with a team of committed governance researchers, which brings new AI and deep learning tools to advance leading-edge governance research along with reform advocacy to strengthen accountability, effectiveness, and civic engagement in the use of public funds, starting with the Philippines. Feel free to drop me a line if you're interested in contributing to OpenAudit.
+I began my professional life as an advocacy strategist, and today I bridge the divide between academia and the policy world through public-purpose data science initiatives that advance the social science frontier, while providing actionable knowledge for policymakers, responsible businesses, and civil society reformers. During COVID-19, I headed socio-economic modeling efforts for [FASSSTER](https://www.ateneo.edu/news/2024/08/28/ateneo-fassster-wins-2024-alberto-g-romualdez-jr-outstanding-health-research-award), the main epidemiological forecasting system of the Philippine government for its pandemic efforts. At present, I'm leading the [OpenAudit project](https://mitgovlab.org/news/unearthing-the-hidden-stories-of-budgets-and-audit-reports/) with a team of committed governance researchers and practitioners, which brings new AI and deep learning tools to advance leading-edge governance research for strengthening accountability, effectiveness, and civic engagement in the management of public funds. Feel free to drop me a line if you're interested in contributing to OpenAudit.
 
-## About OpenAudit
+&nbsp;
+
+### About OpenAudit
 
 <details style="margin-bottom: 8px;">
 <summary> <b> PROBLEM/CONTEXT </b> </summary>
