@@ -14,7 +14,7 @@ nav_order: 4
     <i>Enroute to an indigenous Agta-Dumagat community in Casiguran, Aurora province in the Philippines </i>
 </div>
 
-I began my professional life as an advocacy strategist, and today I bridge the divide between academia and the policy world through public-purpose data science initiatives that advance the social science frontier, while providing actionable knowledge for policymakers, responsible businesses, and civil society reformers. During COVID-19, I headed socio-economic modeling efforts for [FASSSTER](https://www.ateneo.edu/news/2024/08/28/ateneo-fassster-wins-2024-alberto-g-romualdez-jr-outstanding-health-research-award), the main epidemiological forecasting system of the Philippine government for its pandemic efforts. At present, I'm leading the [OpenAudit project](https://mitgovlab.org/news/unearthing-the-hidden-stories-of-budgets-and-audit-reports/) with a team of committed governance researchers and practitioners, which brings new AI and deep learning tools to advance leading-edge governance research for strengthening accountability, effectiveness, and civic engagement in the management of public funds. Feel free to drop me a line if you're interested in working together for the project.
+I began my professional life as an advocacy strategist, and today I bridge the divide between academia and the policy world through public-purpose data science initiatives that advance the social science frontier, while providing actionable knowledge for policymakers, responsible businesses, and civil society reformers. During COVID-19, I headed socio-economic modeling efforts for [FASSSTER](https://www.ateneo.edu/news/2024/08/28/ateneo-fassster-wins-2024-alberto-g-romualdez-jr-outstanding-health-research-award), the main epidemiological forecasting system of the Philippine government for its pandemic efforts. At present, I'm leading the [OpenAudit project](https://mitgovlab.org/news/unearthing-the-hidden-stories-of-budgets-and-audit-reports/)&mdash; an academe-civil society initaitive that brings new AI and deep learning tools to advance leading-edge governance research to strengthen accountability, effectiveness, and civic engagement in the use of public funds. Feel free to drop me a line if you're interested in working together for the project.
 
 &nbsp;
 
@@ -40,9 +40,9 @@ OpenAudit addresses this issue by developing a pipeline for extracting, structur
 <summary> <b> OPENAUDIT TEAM </b> </summary>
 <br>
 <div class="d-flex justify-content-between flex-wrap"><span class="mr-3">Jerik Cruz</span><span>Lead Investigator | Postdoctoral Fellow, HKS and Harvard CID</span></div>
-<div class="d-flex justify-content-between flex-wrap"><span class="mr-3">Prof. Heidi Mendoza</span><span> Advisor | Former UN Undersecretary-General for Internal Oversight | Former Commissioner, Philippine Commission on Audit </span></div>
-<div class="d-flex justify-content-between flex-wrap"><span class="mr-3">Dr. Philip Arnold Tuano</span><span> Advisor | President, Philippine Institute for Development Studies</span></div>
+<div class="d-flex justify-content-between flex-wrap"><span class="mr-3">Prof. Heidi Mendoza</span><span> Former UN Undersecretary-General for Internal Oversight | Former Commissioner, Philippine Commission on Audit </span></div>
+<div class="d-flex justify-content-between flex-wrap"><span class="mr-3">Dr. Philip Arnold Tuano</span><span> President, Philippine Institute for Development Studies</span></div>
 <div class="d-flex justify-content-between flex-wrap"><span class="mr-3">Taavi Ruso</span><span>DevOps Engineer and Cloud Specialist</span></div>
-<div class="d-flex justify-content-between flex-wrap"><span class="mr-3">Uriel Galace</span><span>PhD Candidate | Duke Sanford School of Public Policy</span></div>
+<div class="d-flex justify-content-between flex-wrap"><span class="mr-3">Uriel Galace</span><span>PhD Candidate, Duke Sanford School of Public Policy</span></div>
 </details>   
 
