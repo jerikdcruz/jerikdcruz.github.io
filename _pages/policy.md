@@ -14,21 +14,33 @@ nav_order: 4
     <i>Enroute to an indigenous Agta-Dumagat community in Casiguran, Aurora province in the Philippines </i>
 </div>
 
-I began my professional life as an advocacy strategist, and today I bridge the divide between academia and the policy world through public-purpose data science initiatives that advance the social science frontier, while providing actionable knowledge for policymakers, responsible businesses, and civil society reformers. During COVID-19, I headed socio-economic modeling efforts for [FASSSTER](https://www.ateneo.edu/news/2024/08/28/ateneo-fassster-wins-2024-alberto-g-romualdez-jr-outstanding-health-research-award), the main epidemiological forecasting system of the Philippine government for its pandemic efforts. At present, I'm leading the [OpenAudit project](https://mitgovlab.org/news/unearthing-the-hidden-stories-of-budgets-and-audit-reports/) with a team of committed governance researchers, practitioners, and accountability advocates. Feel free to drop me a line if you're interested in contributing to OpenAudit's development.
+I began my professional life as an advocacy strategist, and today I bridge the divide between academia and the policy world through public-purpose data science initiatives that advance the social science frontier, while providing actionable knowledge for policymakers, responsible businesses, and civil society reformers. During COVID-19, I headed socio-economic modeling efforts for [FASSSTER](https://www.ateneo.edu/news/2024/08/28/ateneo-fassster-wins-2024-alberto-g-romualdez-jr-outstanding-health-research-award), the main epidemiological forecasting system of the Philippine government for its pandemic efforts. At present, I'm leading the [OpenAudit project](https://mitgovlab.org/news/unearthing-the-hidden-stories-of-budgets-and-audit-reports/) with a team of committed governance researchers, which brings new AI and deep learning tools to advance leading-edge governance research along with reform advocacy to strengthen accountability, effectiveness, and civic engagement in the use of public funds, starting with the Philippines. Feel free to drop me a line if you're interested in contributing to OpenAudit.
 
-### selected commissioned reports
-
-<details style="margin-bottom: 8px;">
-<summary> "The services transition, platform capitalism, and the path to illiberal populism: insights from the Philippines" in Understanding the drivers of political polarization and social exclusion in Southeast Asia. Open Society Foundations. 2023. <i>(with Enrico Antonio La Viña)</i> </summary>
-<br>
-This paper dissects the confluence of factors that led to democratic erosion in the Philippines, focusing on the interplay of premature deindustrialization, the rise of platform capitalism, and the dynamics of illiberal populism. Understanding the peculiarities of the Philippines' situation provides critical insights into the broader narrative of global democratic erosion and its economic drivers. Compared to other treatments of the populist upsurge in the Philippines, we highlight premature deindustrialization (Rodrik, 2015; Tregenna, 2015) as well as other political-economic and socio-spatial factors, as pivotal in shaping the political landscape of the Philippines. To that end, this paper delves into the shift towards a service-oriented knowledge economy, a transition that notably skipped the development of a robust
-manufacturing sector, resulting in the emergence of new kinds of social classes– and the subsequent political and economic implications that such a transition has wrought. Over the past decade, these newly formed classes, residing in precarious urban environments, have arisen as a fertile demographic for anti-establishment and populist appeals by outsiders to the prevailing liberal-democratic order. In shared though distinct ways, leaders like Duterte and Marcos Jr. capitalized on the insecurities and anxieties of these groups, promising discipline and order amidst economic and social upheaval.
-</details>
+## About OpenAudit
 
 <details style="margin-bottom: 8px;">
-<summary> "From Dependency to Autonomy: Local Governance, Fiscal Capacity, and the Outlook for Philippine Local Governments in the post-COVID era" in <a href = "https://www.undp.org/philippines/publications/decentralization-digitalization-and-development-strengthening-local-governance-crisis-response-recovery-resilience-and"> Decentralization, Digitalization, and Development: Strengthening Local Governance for Recovery, Resilience, and the Sustainable Development
-Goals</a>. United Nations Development Program. 2023. <i>(Lead flagship report chapter, with Rico La Viña)</i> </summary>
+<summary> <b> PROBLEM/CONTEXT </b> </summary>
 <br>
-The Department of the Interior and Local Government (DILG) and the United Nations Development Programme (UNDP) in the Philippines have produced a report to identify the strategic areas where local capacities can be built to respond to and recover from future crises in line with the current transition of local governments to full decentralization under the Mandanas-Garcia Supreme Court (SC) Ruling, and considering the impact of the COVID-19 on local government units (LGUs). The report aims to articulate insights on the preparedness of the Philippines for the Mandanas-Garcia Supreme Ruling transition and its implications on the ability of the country to respond to -- and recover from -- various forms of crisis, identify strategic areas of development support for LGUs, citizens, and the private sector so that stakeholders stand the best possible chance of reaching the best-case scenario by 2030, and unlock investments in strategic areas of capacity-building support.
-</details>
+In many developing democracies in Asia, Africa, and Latin America, independent audit institutions regularly publish audit and financial reports that track how governments raise, allocate, and manage public resources on behalf of their citizens. These publicly accessible reports
+contain information of immense value to researchers, as they document decisions, processes, and behaviors related to corruption, accountability, and state capacity, often at a level of detail unavailable in standard governance indicators such as the World Governance Indicators. Yet, despite their potential,
+these reports remain severely underused by both academics and practitioners, largely because they are confined to unstructured, text-based formats that are difficult to process at scale. The result is a large, untapped reservoir of evidence that could inform not only research on corruption, but also the design of reforms and targeting of advocacy for strengthening fiscal transparency, accountability, and state capacity development. </details>
+
+&nbsp;
+
+<details style="margin-bottom: 8px;">
+<summary> <b> INTERVENTION </b> </summary>
+<br>
+OpenAudit addresses this issue by developing a pipeline for extracting, structuring, and aggregating data from COA audit reports. Using recent advances in deep learning and open-source large language models, the project converts digitized, text-heavy audit documents into structured, analyzable datasets which capture “red flag” indicators of corruption (e.g. disallowances, unliquidated cash advances, procurement issues, the misuse/misreportage of government assets and inventories), as well as broader challenges in fiscal capacity and accountability. In addition, as these annual reports also track reform behaviors undertaken by government units in the previous year, OpenAudit also aims to allow researchers to examine the behavioral and institutional dimensions of reform adoption, such as how agencies respond to audit findings, whether they comply with recommendations over time, and what factors influence sustained improvements in fiscal governance. These datasets will feed into an open-access data, educational, and analytical platform being collaboratively developed between the OpenAudit team and the Philippine Institute of Development Studies, the leading development think tank in the Philippines. </details>
+
+&nbsp;
+
+<details style="margin-bottom: 8px;">
+<summary> <b> OPENAUDIT TEAM </b> </summary>
+<br>
+<div class="d-flex justify-content-between flex-wrap"><span class="mr-3">Jerik Cruz</span><span>Lead Investigator | Postdoctoral Fellow (HKS, Harvard CID)</span></div>
+<div class="d-flex justify-content-between flex-wrap"><span class="mr-3">Prof. Heidi Mendoza</span><span>Advisor | Former UN Undersecretary-General for Internal Oversight</span></div>
+<div class="d-flex justify-content-between flex-wrap"><span class="mr-3">Dr. Philip Arnold Tuano</span><span>Advisor | President, Philippine Institute for Development Studies</span></div>
+<div class="d-flex justify-content-between flex-wrap"><span class="mr-3">Taavi Ruso</span><span>DevOps Engineer and Cloud Specialist</span></div>
+<div class="d-flex justify-content-between flex-wrap"><span class="mr-3">Uriel Galace</span><span>PhD Candidate | Duke Sanford School of Public Policy</span></div>
+</details>   
 
