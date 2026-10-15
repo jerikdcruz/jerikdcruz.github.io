@@ -54,7 +54,7 @@ leadership by industry veterans. Meanwhile, despite its highly-ambitious Multime
   </div>
 </div>
 <div class="caption" style="margin-bottom: 1.5em;">
-  Moments from my fieldwork in Malaysia (L), Silicon Valley (M), and Mexico (R).
+  Fieldwork moments in Malaysia (L), Silicon Valley (M), and Mexico (R).
 </div>
 
 <p>
