@@ -42,7 +42,7 @@ I test this theory with a four-part strategy combining quantitative, qualitative
     {% include figure.liquid path="assets/img/JPC_Malaysia_3.jpg" class="img-fluid rounded z-depth-1" loading="lazy" sizes="(min-width: 576px) 33vw, 95vw" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/JPC_Silicon_Valley_2.jpg" class="img-fluid rounded z-depth-1" loading="lazy" sizes="(min-width: 576px) 33vw, 95vw" %}
+    {% include figure.liquid path="assets/img/JPC_Silicon Valley_2.jpg" class="img-fluid rounded z-depth-1" loading="lazy" sizes="(min-width: 576px) 33vw, 95vw" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/JPC_Mexico_4.jpg" class="img-fluid rounded z-depth-1" loading="lazy" sizes="(min-width: 576px) 33vw, 95vw" %}
