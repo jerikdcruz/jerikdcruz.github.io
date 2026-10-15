@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-policy",
-          title: "policy",
+        },{id: "nav-policy-openaudit",
+          title: "policy/openaudit",
           description: "",
           section: "Navigation",
           handler: () => {
