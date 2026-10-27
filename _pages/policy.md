@@ -24,6 +24,12 @@ I began my professional life as an advocacy strategist, and today I bridge the d
 <summary> <b> PROBLEM/CONTEXT </b> </summary>
 <br>
 
+<div class="row mt-3">
+    {% include figure.liquid loading="eager" path="assets/img/OGP.jpg" class="img-fluid rounded z-depth-1" %}
+</div>
+<div class="caption">
+    <i>The worldwide membership of the Open Government Partnership movement as of 2023 </i>
+</div>
 
 In many developing democracies in Asia, Africa, and Latin America, independent audit institutions regularly publish audit and financial reports that track how governments raise, allocate, and manage public resources on behalf of their citizens. These publicly accessible reports
 contain information of immense value to researchers, as they document decisions, processes, and behaviors related to corruption, accountability, and state capacity, often at a level of detail unavailable in standard governance indicators such as the World Governance Indicators. Yet, despite their potential,
@@ -34,6 +40,13 @@ these reports remain severely underused by both academics and practitioners, lar
 <details style="margin-bottom: 8px;">
 <summary> <b> INTERVENTION </b> </summary>
 <br>
+
+<div class="row mt-3">
+    {% include figure.liquid loading="eager" path="assets/img/OpenAudit map.png" class="img-fluid rounded z-depth-1" %}
+</div>
+<div class="caption">
+    <i> OpenAudit Philippines landing page as of October 2026 </i>
+</div>    
 OpenAudit addresses this issue by developing a pipeline for extracting, structuring, and aggregating data from COA audit reports. Using recent advances in deep learning and open-source large language models, the project converts digitized, text-heavy audit documents into structured, analyzable datasets which capture “red flag” indicators of corruption (e.g. disallowances, unliquidated cash advances, procurement issues, the misuse/misreportage of government assets and inventories), as well as broader challenges in fiscal capacity and accountability. In addition, as these annual reports also track reform behaviors undertaken by government units in the previous year, OpenAudit also aims to allow researchers to examine the behavioral and institutional dimensions of reform adoption, such as how agencies respond to audit findings, whether they comply with recommendations over time, and what factors influence sustained improvements in fiscal governance. These datasets will feed into an open-access data, educational, and analytical platform being collaboratively developed between the OpenAudit team and the Philippine Institute of Development Studies, the leading development think tank in the Philippines. </details>
 
 &nbsp;
