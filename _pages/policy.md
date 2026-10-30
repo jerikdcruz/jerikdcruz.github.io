@@ -8,13 +8,13 @@ nav_order: 4
 ---
 
 <div class="row mt-3">
-    {% include figure.liquid loading="eager" path="assets/img/MIT Open Data.jpeg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/\Open Audit presentation.jpeg" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
-    <i>With the fellow awardees and selection committee of the MIT Open Data Prize, 2023 </i>
+    <i>Presenting the OpenAudit project at the MIT Open Data Prize </i>
 </div>
 
-I began my professional life as an advocacy strategist, and today I bridge the divide between academia and the policy world through public-purpose data science initiatives that advance the social science frontier, while providing actionable knowledge for policymakers, responsible businesses, and civil society reformers. During COVID-19, I headed socio-economic modeling efforts for [FASSSTER](https://www.ateneo.edu/news/2024/08/28/ateneo-fassster-wins-2024-alberto-g-romualdez-jr-outstanding-health-research-award), the main epidemiological forecasting system of the Philippine government for its pandemic efforts. At present, I'm leading the [OpenAudit project](https://www.openaudit.ph/)&mdash; an academe-civil society initaitive that brings new AI and deep learning tools to advance leading-edge governance research to strengthen accountability, effectiveness, and civic engagement in the use of public funds. Feel free to drop me a line if you're interested in contributing to the project. Read more about OpenAudit [here](https://mitgovlab.org/news/unearthing-the-hidden-stories-of-budgets-and-audit-reports/) and [here](https://mitgovlab.org/news/mit-news-rewarding-excellence-in-open-data/).
+I bridge the divide between academia and the policy world through public-purpose data science initiatives that advance the social science frontier, while providing actionable knowledge for policymakers, responsible businesses, and civil society reformers. During COVID-19, I headed socio-economic modeling efforts for [FASSSTER](https://www.ateneo.edu/news/2024/08/28/ateneo-fassster-wins-2024-alberto-g-romualdez-jr-outstanding-health-research-award), the main epidemiological forecasting system of the Philippine government for its pandemic efforts. At present, I'm leading the [OpenAudit project](https://www.openaudit.ph/)&mdash; an academe-civil society initiative that brings new AI and deep learning tools to advance leading-edge governance research to strengthen accountability, effectiveness, and civic engagement in the use of public funds. Read more about OpenAudit [here](https://mitgovlab.org/news/unearthing-the-hidden-stories-of-budgets-and-audit-reports/) and [here](https://mitgovlab.org/news/mit-news-rewarding-excellence-in-open-data/).
 
 &nbsp;
 
@@ -25,15 +25,13 @@ I began my professional life as an advocacy strategist, and today I bridge the d
 <br>
 
 <div class="row mt-3">
-    {% include figure.liquid loading="eager" path="assets/img/OGP.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/OGP Member map - 2026.png" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
-    <i>The worldwide membership of the Open Government Partnership movement as of 2023 </i>
+    <i>The worldwide membership of the Open Government Partnership movement as of 2026 </i>
 </div>
 
-In many developing democracies in Asia, Africa, and Latin America, independent audit institutions regularly publish audit and financial reports that track how governments raise, allocate, and manage public resources on behalf of their citizens. These publicly accessible reports
-contain information of immense value to researchers, as they document decisions, processes, and behaviors related to corruption, accountability, and state capacity, often at a level of detail unavailable in standard governance indicators such as the World Governance Indicators. Yet, despite their potential,
-these reports remain severely underused by both academics and practitioners, largely because they are confined to unstructured, text-based formats that are difficult to process at scale. The result is a large, untapped reservoir of evidence that could inform not only research on corruption, but also the design of reforms and targeting of advocacy for strengthening fiscal transparency, accountability, and state capacity development. </details>
+In many developing democracies in Asia, Africa, and Latin America, independent audit institutions regularly publish audit and financial reports that track how governments raise, allocate, and manage public resources on behalf of their citizens. These publicly accessible reports contain information of immense value to researchers, as they document decisions, processes, and behaviors related to corruption, accountability, and state capacity, often at a level of detail unavailable in standard governance indicators such as the World Governance Indicators. Yet, despite their potential, these reports remain severely underused by both academics and practitioners, largely because they are confined to unstructured, text-based formats that are difficult to process at scale. The result is a large, untapped reservoir of evidence that could inform not only research on corruption, but also the design of reforms and targeting of advocacy for strengthening fiscal transparency, accountability, and state capacity development. </details>
 
 &nbsp;
 
@@ -47,7 +45,7 @@ these reports remain severely underused by both academics and practitioners, lar
 <div class="caption">
     <i> OpenAudit Philippines landing page as of October 2026 </i>
 </div>    
-OpenAudit addresses this issue by developing a pipeline for extracting, structuring, and aggregating data from COA audit reports. Using recent advances in deep learning and open-source large language models, the project converts digitized, text-heavy audit documents into structured, analyzable datasets which capture “red flag” indicators of corruption (e.g. disallowances, unliquidated cash advances, procurement issues, the misuse/misreportage of government assets and inventories), as well as broader challenges in fiscal capacity and accountability. In addition, as these annual reports also track reform behaviors undertaken by government units in the previous year, OpenAudit also aims to allow researchers to examine the behavioral and institutional dimensions of reform adoption, such as how agencies respond to audit findings, whether they comply with recommendations over time, and what factors influence sustained improvements in fiscal governance. These datasets will feed into an open-access data, educational, and analytical platform being collaboratively developed between the OpenAudit team and the Philippine Institute of Development Studies, the leading development think tank in the Philippines. </details>
+OpenAudit addresses this issue by developing a pipeline for extracting, structuring, and aggregating data from COA audit reports. Using recent advances in deep learning and open-source large language models, the project converts digitized, text-heavy audit documents into structured, analyzable datasets which capture “red flag” indicators of corruption (e.g. disallowances, unliquidated cash advances, procurement issues, the misuse/misreportage of government assets and inventories), as well as broader challenges in fiscal capacity and accountability. In addition, as these annual reports also track reform behaviors undertaken by government units in the previous year, OpenAudit also enables researchers and practitioners to examine the behavioral and institutional dimensions of reform adoption, such as how agencies respond to audit findings, whether they comply with recommendations over time, and what factors influence sustained improvements in fiscal governance. These datasets are feeding into an open-access data, educational, and analytical platform being collaboratively developed between the OpenAudit team and the Philippine Institute of Development Studies, the leading development think tank in the Philippines. </details>
 
 &nbsp;
 
