@@ -11,7 +11,7 @@ nav_order: 4
     {% include figure.liquid loading="eager" path="assets/img/\Open Audit presentation.jpeg" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
-    <i>Presenting the OpenAudit project at the MIT Open Data Prize </i>
+    <i>Presenting the OpenAudit project at the MIT Open Data Prize award ceremony </i>
 </div>
 
 I bridge the divide between academia and the policy world through public-purpose data science initiatives that advance the social science frontier, while providing actionable knowledge for policymakers, responsible businesses, and civil society reformers. During COVID-19, I headed socio-economic modeling efforts for [FASSSTER](https://www.ateneo.edu/news/2024/08/28/ateneo-fassster-wins-2024-alberto-g-romualdez-jr-outstanding-health-research-award), the main epidemiological forecasting system of the Philippine government for its pandemic efforts. At present, I'm leading the [OpenAudit project](https://www.openaudit.ph/)&mdash; an academe-civil society initiative that brings new AI and deep learning tools to advance leading-edge governance research to strengthen accountability, effectiveness, and civic engagement in the use of public funds. Read more about OpenAudit [here](https://mitgovlab.org/news/unearthing-the-hidden-stories-of-budgets-and-audit-reports/) and [here](https://mitgovlab.org/news/mit-news-rewarding-excellence-in-open-data/).
